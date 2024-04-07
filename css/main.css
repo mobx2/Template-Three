@@ -1137,6 +1137,11 @@ a {
     padding-bottom: var(--main-padding);
     position: relative;
 }
+@media (max-width: 767px) {
+    .events .dots {
+        display: none;
+    }
+}
 .events .container {
     display: flex;
     align-items: center;
@@ -1230,7 +1235,7 @@ a {
 }
 @media (max-width: 767px) {
     .events .subscribe form {
-        max-width: 340px;
+        max-width: 300px;
         padding: 20px;
         flex-direction: column;
         border-radius: 0;
