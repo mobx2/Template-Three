@@ -1,4 +1,4 @@
-#Webstie template inspired by *Osama elzero*
+#Webstie template inspired by **Osama elzero**
 
 ##Demo
 https://mobx2.github.io/Template-Three/
