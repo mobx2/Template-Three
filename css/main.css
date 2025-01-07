@@ -418,6 +418,25 @@ a {
     -webkit-animation: bounce 2s infinite ;
     -moz-animation: bounce 2s infinite ;
 }
+.landing button.scroll-to-top {
+  font-size: 20px;
+  font-weight: bold;
+  background: var(--mainColor);
+  border: none;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 99;
+  display: none;
+}
 /* end landing */
 /* start articles */
 .articles {
