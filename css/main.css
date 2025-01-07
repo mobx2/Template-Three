@@ -419,6 +419,7 @@ a {
     -moz-animation: bounce 2s infinite ;
 }
 .landing button.scroll-to-top {
+	opacity: 0.7;
   font-size: 20px;
   font-weight: bold;
   background: var(--mainColor);
